@@ -10,9 +10,9 @@
   ## [Description](#table-of-contents)
 
   Youtube walthrough!
-  https://www.youtube.com/watch?v=9C2P7qokmYc
+ https://youtu.be/e-WbFfT7lNw
 
-  This project is a team generator that'll make it much easier to asign roles and positions.
+  This project is a team generator that'll make it much easier to assign roles and positions.
   
   Here are mockup images:
 <img src="./ss.png" alt="screenshot of mockup">
